@@ -50,7 +50,6 @@ export default function Page() {
             alt="Screenshot of the dashboard project showing mobile version"
           />
         </div>
-        {/* <p></p> */}
       </div>
     </main>
   );
